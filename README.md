@@ -103,7 +103,7 @@ main().catch(console.error);
 
 ## 🏗️ Architecture
 
-![OmniAgentPay Architecture](docs/architecture.svg)
+![OmniAgentPay Architecture](https://raw.githubusercontent.com/omniagentpay/npmsdk/main/docs/architecture.svg)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
