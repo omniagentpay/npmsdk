@@ -1,0 +1,15 @@
+src/
+tests/
+*.ts
+!*.d.ts
+tsconfig.json
+.eslintrc*
+.prettierrc*
+jest.config.*
+.gitignore
+.git/
+node_modules/
+*.log
+.DS_Store
+*.md
+!README.md
